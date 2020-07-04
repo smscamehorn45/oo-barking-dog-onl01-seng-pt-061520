@@ -11,7 +11,7 @@ class Dog
 end
 
 Chewy = Dog.new
-Chewy.name-("chewy")
+Chewy.name=("chewy")
 
 puts Chewy.name
 
